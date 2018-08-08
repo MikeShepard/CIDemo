@@ -1,0 +1,17 @@
+<#
+.SYNOPSIS
+Short description
+
+.DESCRIPTION
+Long description
+
+.EXAMPLE
+An example
+
+.NOTES
+General notes
+#>
+function get-nothing {
+    [cmdletBinding()]
+    param()
+}
