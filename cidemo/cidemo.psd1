@@ -9,7 +9,7 @@
     Author            = 'Mike Shepard'
     CompanyName       = 'Unknown'
     Copyright         = '(c) Mike Shepard. All rights reserved.'
-    Description       = ''
+    Description       = 'blank module to illustrate CI process'
     FunctionsToExport = @()
     CmdletsToExport   = @()
     VariablesToExport = @()
@@ -33,8 +33,8 @@
     PrivateData       = @{
         PSData = @{
             # Tags = @()
-            # LicenseUri = ''
-            # ProjectUri = ''
+            # LicenseUri = 'www.google.com'
+            # ProjectUri = 'www.google.com'
             # IconUri = ''
             # ReleaseNotes = ''
         }
